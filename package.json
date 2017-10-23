@@ -9,7 +9,7 @@
   "keywords": [
     "babel-plugin",
     "angularjs",
-    "angular",
+    "angular"
   ],
   "scripts": {
     "build": "babel --out-dir lib src",
