@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-angular-jsx",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Use JSX in AngularJS",
   "repository": "https://github.com/shawwn/babel-plugin-angular-jsx",
   "license": "BSD-2-Clause",
